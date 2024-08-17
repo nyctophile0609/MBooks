@@ -1,0 +1,5 @@
+books/main/migrations/__pycache__/
+books/main/__pycache__/
+books/books/__pycache__/
+*.sqlite3
+*.pyc
